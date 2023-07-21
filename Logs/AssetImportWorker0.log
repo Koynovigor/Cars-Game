@@ -1,0 +1,220 @@
+Using pre-set license
+Built from '2022.3/release' branch; Version is '2022.3.5f1 (9674261d40ee) revision 9860134'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Professional' Language: 'ru' Physical Memory: 12197 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.5f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Igor/Cars Game
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62173
+Successfully changed project path to: C:/Users/Igor/Cars Game
+C:/Users/Igor/Cars Game
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [17132] Host "[IP] 10.8.175.3 [Port] 0 [Flags] 2 [Guid] 1970039162 [EditorId] 1970039162 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-4DBCNJQ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [17132] Host "[IP] 10.8.175.3 [Port] 0 [Flags] 2 [Guid] 1970039162 [EditorId] 1970039162 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-4DBCNJQ) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 44.31 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.5f1 (9674261d40ee)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Igor/Cars Game/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x5917)
+    Vendor:   Intel
+    VRAM:     6098 MB
+    Driver:   27.20.100.8729
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56332
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.5f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.057622 seconds.
+- Loaded All Assemblies, in  1.439 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 1909 ms
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  4.015 seconds
+Domain Reload Profiling: 5446ms
+	BeginReloadAssembly (299ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (2ms)
+	RebuildCommonClasses (204ms)
+	RebuildNativeTypeToScriptingClass (81ms)
+	initialDomainReloadingComplete (377ms)
+	LoadAllAssembliesAndSetupDomain (469ms)
+		LoadAssemblies (298ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (436ms)
+			TypeCache.Refresh (434ms)
+				TypeCache.ScanAssembly (398ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (4016ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (3661ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2574ms)
+			SetLoadedEditorAssemblies (18ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (11ms)
+			ProcessInitializeOnLoadAttributes (811ms)
+			ProcessInitializeOnLoadMethodAttributes (246ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Igor\Cars Game\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\Igor\Cars Game\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  7.340 seconds
+Refreshing native plugins compatible for Editor in 42.52 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.671 seconds
+Domain Reload Profiling: 9996ms
+	BeginReloadAssembly (1492ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (30ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (1ms)
+		CreateAndSetChildDomain (162ms)
+	RebuildCommonClasses (448ms)
+	RebuildNativeTypeToScriptingClass (175ms)
+	initialDomainReloadingComplete (371ms)
+	LoadAllAssembliesAndSetupDomain (4839ms)
+		LoadAssemblies (1932ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (3667ms)
+			TypeCache.Refresh (3199ms)
+				TypeCache.ScanAssembly (3123ms)
+			ScanForSourceGeneratedMonoScriptInfo (232ms)
+			ResolveRequiredComponents (236ms)
+	FinalizeReload (2672ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (803ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (118ms)
+			SetLoadedEditorAssemblies (10ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (96ms)
+			ProcessInitializeOnLoadAttributes (537ms)
+			ProcessInitializeOnLoadMethodAttributes (32ms)
+			AfterProcessingInitializeOnLoad (10ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+
+=================================================================
+	Native Crash Reporting
+=================================================================
+Got a UNKNOWN while executing native code. This usually indicates
+a fatal error in the mono runtime or one of the native libraries 
+used by your application.
+=================================================================
+
+=================================================================
+	Managed Stacktrace:
+=================================================================
+=================================================================
+Received signal SIGSEGV
+Obtained 40 stack frames
+0x00007ffc73324279 (igd10iumd64) OpenAdapter10_2
+0x00007ffc7332234c (igd10iumd64) OpenAdapter10_2
+0x00007ffc7332220d (igd10iumd64) OpenAdapter10_2
+0x00007ffc732a86ba (igd10iumd64) OpenAdapter10_2
+0x00007ffc7af52e73 (d3d11) EnableFeatureLevelUpgrade
+0x00007ffc7af56da5 (d3d11) EnableFeatureLevelUpgrade
+0x00007ffc7af5f588 (d3d11) EnableFeatureLevelUpgrade
+0x00007ffc7af6049c (d3d11) EnableFeatureLevelUpgrade
+0x00007ffc7af60ec4 (d3d11) EnableFeatureLevelUpgrade
+0x00007ffc7af571c6 (d3d11) EnableFeatureLevelUpgrade
+0x00007ffc7af57102 (d3d11) EnableFeatureLevelUpgrade
+0x00007ffc7af56e78 (d3d11) EnableFeatureLevelUpgrade
+0x00007ff7e95eba55 (Unity) D3D11PixelShader::D3D11PixelShader
+0x00007ff7e939bec2 (Unity) CreateGpuProgram
+0x00007ff7e969079a (Unity) GfxDeviceClient::CreateGpuProgram
+0x00007ff7e925e2c1 (Unity) ShaderLab::SubProgram::Compile
+0x00007ff7e9f54686 (Unity) FinalizeVariant
+0x00007ff7e9f5570c (Unity) GetSubProgramForShaderSnippet
+0x00007ff7e925e958 (Unity) ShaderLab::Program::CompileShaderSubProgram
+0x00007ff7e92602b8 (Unity) ShaderLab::Program::GetMatchingSubProgram
+0x00007ff7e9267146 (Unity) ShaderLab::ShaderState::FindSubProgramsToUse
+0x00007ff7e925a05a (Unity) ShaderLab::Pass::PrepareVariant
+0x00007ff7e9249979 (Unity) ShaderVariantCollection::WarmupOneShaderImpl
+0x00007ff7e924a2eb (Unity) ShaderVariantCollection::WarmupShadersImpl
+0x00007ff7e923edcf (Unity) ShaderVariantCollection::CompileShaders
+0x00007ff7e9f64866 (Unity) WarmupEditorShaders
+0x00007ff7eac89209 (Unity) Shader::ReloadAllShaders
+0x00007ff7ea8f5b4b (Unity) <lambda_e4c09a862f47a773e31babb76239f51f>::operator()
+0x00007ff7ea92f1d2 (Unity) asio::detail::completion_handler<core::mutable_function<void __cdecl(void)>,asio::io_context::basic_executor_type<std::allocator<void>,0> >::do_complete
+0x00007ff7ea91b17e (Unity) asio::detail::win_iocp_io_context::do_one
+0x00007ff7ea91cdae (Unity) asio::detail::win_iocp_io_context::run
+0x00007ff7ea92d57c (Unity) IOService::Run
+0x00007ff7ea901d3f (Unity) AssetImportWorkerClient::Run
+0x00007ff7ea8cca27 (Unity) RunAssetImportWorkerClientV2
+0x00007ff7ea8ccaab (Unity) RunAssetImporterV2
+0x00007ff7ea0d12c1 (Unity) Application::InitializeProject
+0x00007ff7ea556575 (Unity) WinMain
+0x00007ff7eb94133e (Unity) __scrt_common_main_seh
+0x00007ffc80a726ad (KERNEL32) BaseThreadInitThunk
+0x00007ffc81a4aa68 (ntdll) RtlUserThreadStart
+
